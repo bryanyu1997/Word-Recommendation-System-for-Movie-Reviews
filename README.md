@@ -20,8 +20,8 @@ For candidate sentences ranking,  we compare similarity of the original words an
 
 The trained-weights and the system needs are stored [here](), where also provides IMDb reviews dataset as the gallery set. For using, you need to unzip them and save in local directory. You can also apply your own dataset as customized gallery for our system instead. 
 ### Installation
-``pip install nltk``
-``pip install -r requirement.txt``
+``pip install nltk`` \
+``pip install -r requirement.txt``  
 
 ## Implementation
 The **POS tag** defined in NLTK function represents the part of speech in words, such as JJ (adjective), VB (verb), etc. You can set the target POS tag in ``run.py`` then run the script.  
