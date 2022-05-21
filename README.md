@@ -18,7 +18,7 @@ For candidate sentences ranking,  we compare similarity of the original words an
 
 ## Preparation & Installation 
 
-The trained-weights and the system needs are stored [here](https://drive.google.com/drive/folders/1VJp29A73TzXNTAjESy8cvupRs4qRFRc3?usp=sharing), where also provides IMDb reviews dataset as the gallery set. For using, you need to unzip them and save in local directory. You can also apply your own dataset as customized gallery for our system instead. 
+The trained-weights and data our system needs are stored [here](https://drive.google.com/drive/folders/1VJp29A73TzXNTAjESy8cvupRs4qRFRc3?usp=sharing), where also provides IMDb reviews dataset as the gallery set. For using, you need to unzip them and save in local directory. You can also apply your own dataset as customized gallery for our system instead. 
 ### Installation
 ``pip install nltk`` \
 ``pip install -r requirement.txt``  
