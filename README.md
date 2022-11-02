@@ -1,6 +1,6 @@
 # Word Recommendation System for Movie Reviews 
 
-This project is co-worked with [Kuan-Hung Chen](https://github.com/kuanhungchen) & [Chia-Wei Wu](https://github.com/marcovwu) 
+This project is co-worked with [Kuan-Hung Chen](https://github.com/kuanhungchen) & [Chia-Wei Wu](https://github.com/marcovwu). 
 ## Introduction 
 
 We design a pipeline to help people easily give their feedback or reviews of a movie. By using this system, users can provide a “draft” of their opinion and the system will automatically compute the semantic meaning of that draft, then find some alternatives of words from the gallery dataset. Finally, the system display one or some better writing of that draft to the user. With this system, users can give feedback after watching a movie with less effort.
